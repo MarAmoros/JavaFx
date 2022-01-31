@@ -1,0 +1,4 @@
+com\example\testjavafx\MainApp.class
+module-info.class
+com\example\testjavafx\model\Person.class
+com\example\testjavafx\view\PersonOverviewController.class
